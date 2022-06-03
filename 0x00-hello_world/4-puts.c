@@ -4,21 +4,18 @@
  *
  *   *  A program that prints with puts and not printf
  *
- *    */
+ */
 
 #include <stdio.h>
 
 
 
 /**
- *
  *  * main - My entry point for my program
- *
- *   *
  *
  *    * Return: returns 0
  *
- *     */
+ */
 
 int main(void)
 
