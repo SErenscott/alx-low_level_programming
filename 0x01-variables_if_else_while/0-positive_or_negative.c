@@ -11,7 +11,7 @@
 #include <time.h>
 
 /*
- * main - The entry point of the program.
+ * The entry point of the program.
  *
  * Return: returns 0
  *
