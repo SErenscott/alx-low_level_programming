@@ -1,22 +1,12 @@
-/*
- * 0-positive_or_negative.c
- * A program that generate a random number.
- * And checks whether the number is positive or negative.
- *
- * By: REnscott
- */
-
-#include <stdio.h>
+#include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-/*
- * The entry point of the program.
+/**
+ * main - The entry point of the program
  *
- * Return: returns 0
+ * Return: Always return 0
  *
  */
-
 int main(void)
 {
 	int n;
@@ -35,6 +25,5 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-
 	return (0);
 }
